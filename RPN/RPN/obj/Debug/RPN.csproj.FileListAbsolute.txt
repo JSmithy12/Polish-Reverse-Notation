@@ -1,0 +1,10 @@
+C:\Users\Joshua\Source\Repos\RPN\RPN\bin\Debug\RPN.exe.config
+C:\Users\Joshua\Source\Repos\RPN\RPN\bin\Debug\RPN.exe
+C:\Users\Joshua\Source\Repos\RPN\RPN\bin\Debug\RPN.pdb
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.csproj.AssemblyReference.cache
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.Form1.resources
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.Properties.Resources.resources
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.csproj.GenerateResource.cache
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.exe
+C:\Users\Joshua\Source\Repos\RPN\RPN\obj\Debug\RPN.pdb
